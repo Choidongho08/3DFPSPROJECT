@@ -8,16 +8,16 @@ TagManager:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - PostProcessing
   - Water
   - UI
   - 
   - 
   - 
-  - 
-  - 
-  - 
-  - 
+  - First Person
+  - No Collision
+  - Entity
+  - Hitbox
   - 
   - 
   - 
